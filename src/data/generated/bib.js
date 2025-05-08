@@ -1,102 +1,102 @@
 ﻿const generatedBibEntries = {
-    "Ali2023": {
-        "author": "Ali, A. and Zafar, M.",
-        "doi": "10.1108/ICS-09-2023-0156",
-        "journal": "Information & Computer Security",
+    "Ayyagari2019": {
+        "author": "Ayyagari, R. and Lim, J. and Hoxha, O.",
+        "doi": "10.7903/cmr.19394",
+        "journal": "Contemporary Management Research",
         "keywords": "type:journal, usability",
-        "series": "ICS",
-        "title": "Unraveling the Dynamics of Password Manager Adoption: A Deeper Understanding",
+        "series": "CMR",
+        "title": "Why Do Not We Use Password Managers? A Study on the Intention to Use Password Managers",
         "type": "article",
-        "year": "2023"
+        "year": "2019"
     },
-    "Andersson2008": {
-        "author": "Andersson, J. and Pettersson, O.",
+    "Bicakci2009": {
+        "author": "Bicakci, K. and Yuceel, M. and Erdeniz, B. and Gurbaslar, H. and Atalay, N. B.",
         "doi": "10.1145/1572532.1572579",
-        "journal": "NordiCHI",
+        "journal": "Proceedings of the 5th Symposium on Usable Privacy and Security",
         "keywords": "type:conference, password-generation",
-        "series": "NordiCHI",
+        "series": "SOUPS",
         "title": "Graphical Passwords as Browser Extension: Implementation and Usability Study",
         "type": "article",
-        "year": "2008"
+        "year": "2009"
     },
-    "Chen2022": {
-        "author": "Chen, L. and Kim, H.",
-        "doi": "10.1145/3477314.3507098",
-        "journal": "Proceedings of CODASPY",
+    "Bohlender2018": {
+        "author": "Bohlender, D. and Hamm, D. and Kowalewski, S.",
+        "doi": "10.1145/3167132.3167334",
+        "journal": "Proceedings of the 33rd Annual ACM Symposium on Applied Computing",
         "keywords": "type:conference, plugin-security",
-        "series": "CODASPY",
+        "series": "SAC",
+        "title": "Cycle-Bounded Model Checking of PLC Software via Dynamic Large-Block Encoding",
+        "type": "article",
+        "year": "2018"
+    },
+    "Chaudhary2019": {
+        "author": "Chaudhary, S. and Schafeitel-T\u00e4htinen, T. and Helenius, M. and Berki, E.",
+        "doi": "10.1016/j.cosrev.2019.03.002",
+        "journal": "Computer Science Review",
+        "keywords": "type:journal, usability",
+        "series": "COSREV",
+        "title": "Usability, Security and Trust in Password Managers: A Quest for User-Centric Properties and Features",
+        "type": "article",
+        "year": "2019"
+    },
+    "Eriksson2022": {
+        "author": "Eriksson, B. and Picazo-Sanchez, P. and Sabelfeld, A.",
+        "doi": "10.1145/3477314.3507098",
+        "journal": "Proceedings of the 37th ACM/SIGAPP Symposium on Applied Computing",
+        "keywords": "type:conference, plugin-security",
+        "series": "SAC",
         "title": "Hardening the Security Analysis of Browser Extensions",
         "type": "article",
         "year": "2022"
     },
-    "Furnell2018": {
-        "author": "Furnell, S. and Clarke, N.",
-        "doi": "10.1016/j.cose.2018.08.004",
-        "journal": "Computers & Security",
-        "keywords": "type:journal, usability",
-        "series": "CoSE",
-        "title": "Usability, Security and Trust in Password Managers: A Quest for User Acceptance",
-        "type": "article",
-        "year": "2018"
-    },
-    "Hwang2018": {
-        "author": "Hwang, S. and Lee, K.",
-        "doi": "10.1145/3167132.3167334",
-        "journal": "ACM Symposium on Applied Computing",
-        "keywords": "type:conference, usability",
-        "series": "SAC",
-        "title": "The Usability of Password Management Tools",
-        "type": "article",
-        "year": "2018"
-    },
-    "Jang2013": {
-        "author": "Jang, Y. and Song, D.",
-        "doi": "10.1145/2435349.2435397",
-        "journal": "ACM Conference on Computer and Communications Security",
-        "keywords": "type:conference, plugin-security",
-        "series": "CCS",
-        "title": "All Your Browser-Saved Passwords Could Belong to Us",
-        "type": "article",
-        "year": "2013"
-    },
-    "Miller2019": {
-        "author": "Miller, A. and Brown, K.",
-        "doi": "10.1109/EuroSPW.2019.00013",
-        "journal": "IEEE EuroS&P Workshops",
-        "keywords": "type:workshop, password-generation",
-        "series": "EuroS&P",
-        "title": "Master Password: A Local, Stateless Password Generation Mechanism",
-        "type": "article",
-        "year": "2019"
-    },
-    "Nguyen2024": {
-        "author": "Nguyen, T. and Lee, S.",
+    "Jubur2025": {
+        "author": "Jubur, M. and Shrestha, P. and Saxena, N.",
         "doi": "10.1145/3711117",
-        "journal": "ACM Queue",
-        "keywords": "type:magazine, password-generation",
-        "series": "Queue",
-        "title": "An In-Depth Analysis of Password Managers and Two-Factor Authentication",
+        "journal": "ACM Computing Surveys",
+        "keywords": "type:journal, password-generation",
+        "series": "CSUR",
+        "title": "An In-Depth Analysis of Password Managers and Two-Factor Authentication Tools",
+        "type": "article",
+        "year": "2025"
+    },
+    "Nayak2024": {
+        "author": "Nayak, A. and Khandelwal, R. and Fernandes, E. and Fawaz, K.",
+        "doi": "10.1145/3589334.3645683",
+        "journal": "Proceedings of the ACM Web Conference 2024",
+        "keywords": "type:conference, plugin-security",
+        "series": "WWW",
+        "title": "Experimental Security Analysis of Sensitive Data Access by Browser Extensions",
         "type": "article",
         "year": "2024"
     },
-    "Reeder2019": {
-        "author": "Reeder, R. and Schechter, S.",
-        "doi": "10.1145/3319535.3363213",
-        "journal": "ACM CSCW",
-        "keywords": "type:conference, usability",
-        "series": "CSCW",
-        "title": "Why People Don\u2019t Use Password Managers Effectively",
+    "Simmons2021": {
+        "author": "Simmons, J. and Diallo, O. and Oesch, S. and Ruoti, S.",
+        "doi": "10.1145/3485832.3485889",
+        "journal": "Proceedings of the 37th Annual Computer Security Applications Conference",
+        "keywords": "type:conference, password-generation",
+        "series": "ACSAC",
+        "title": "Systematization of Password Manager Use Cases and Design Paradigms",
         "type": "article",
-        "year": "2019"
+        "year": "2021"
     },
-    "Zhang2023": {
-        "author": "Zhang, X. and Wang, Y.",
-        "doi": "10.1145/3589334.3645683",
-        "journal": "Proceedings of the ACM CHI Conference",
-        "keywords": "type:conference, plugin-security",
-        "series": "CHI",
-        "title": "Experimental Security Analysis of Sensitive Data Access by Browser Extensions",
+    "Tian2024": {
+        "author": "Tian, X.",
+        "doi": "10.1108/ICS-09-2023-0156",
+        "journal": "Information and Computer Security",
+        "keywords": "type:journal, usability",
+        "series": "ICS",
+        "title": "Unraveling the Dynamics of Password Manager Adoption: A Deeper Dive into Critical Factors",
         "type": "article",
-        "year": "2023"
+        "year": "2024"
+    },
+    "Zhao2013": {
+        "author": "Zhao, R. and Yue, C.",
+        "doi": "10.1145/2435349.2435397",
+        "journal": "Proceedings of the Third ACM Conference on Data and Application Security and Privacy",
+        "keywords": "type:conference, plugin-security",
+        "series": "CODASPY",
+        "title": "All Your Browser-Saved Passwords Could Belong to Us: A Security Analysis and a Cloud-Based New Design",
+        "type": "article",
+        "year": "2013"
     }
 };
